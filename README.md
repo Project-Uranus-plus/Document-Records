@@ -20,7 +20,7 @@ git commit -m "添加规范相关文档" .
 ### 3.推送到远程仓库
 
 ```
-git push -f origin feature/introduce-dock-lp
+git push -f origin feature/introduce-dock-lp （分支名）
 ```
 
 ### 4.github界面处理提交的分支
